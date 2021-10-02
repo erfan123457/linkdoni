@@ -3,6 +3,6 @@
     "nam": "اطلاع رسانی SD PLUS",
     "id": "SD_PLUS",
     "tozih": "برنامه SD PLUS بهترین اپلیکیشن ایران",
-    "aks": "https://www.uplooder.net/img/image/7/f1ecbe3d717782690a31d12634e9f561/IMG-۲۰۲۱۱۰۰۲-۱۴۵۶۵۶.png"
+    "aks": "https://www.uplooder.net/img/image/85/b5053a8e1a8699db7b79f0b02bb99239/1633203416960.png"
   }
 ]
